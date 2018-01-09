@@ -4,6 +4,6 @@
 
 # IntelliJ project files
 .idea
-/db.sqlite3*
 
 
+trumpbot-chatterbot/django_chatterbot/chatbot-site/db.sqlite3
